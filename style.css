@@ -94,7 +94,7 @@ a {
     width: 50px;
     height: 42px;
     border: 0;
-    background-image: url(img的副本/btn.png);
+    background-image: url(img/btn.png);
 }
 
 .user {
@@ -113,7 +113,7 @@ a {
 
 .banner .w {
     height: 420px;
-    background: url(img的副本/banner2.png) no-repeat top center;
+    background: url(img/banner2.png) no-repeat top center;
 }
 
 .subnav {
